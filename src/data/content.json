@@ -1,6 +1,6 @@
 {
-  "siteName": "CAMPUS DIARIES",
-  "subtitle": "高中生活與日常穿搭誌",
+  "siteName": "THE BARBIE DIARIES",
+  "subtitle": "芭比之奇幻日記",
 
   "theme": {
     "primaryColor": "#222222",
@@ -14,14 +14,13 @@
 
   "socialLinks": {
     "instagram": "",
-    "facebook": "",
-    "twitter": ""
+    "facebook": ""
   },
 
   "nav": [
     { "label": "首頁", "type": "home" },
-    { "label": "校園穿搭", "type": "category", "value": "OUTFIT" },
-    { "label": "生活隨筆", "type": "category", "value": "LIFESTYLE" },
+    { "label": "靈魂補給", "type": "category", "value": "Barbie’s Vibe" },
+    { "label": "快樂噴泉", "type": "category", "value": "Barbie’s Daily" },
     { "label": "關於我", "type": "about" }
   ],
 
@@ -44,7 +43,7 @@
   "posts": [
     {
       "id": "post-001",
-      "category": "OUTFIT",
+      "category": "Barbie’s Vibe",
       "title": "錢沒有不見只是變成了我喜歡的樣子：",
       "date": "2026.03.05",
       "image": "https://wallpaperaccess.com/full/3703765.jpg",
@@ -55,10 +54,10 @@
     },
     {
       "id": "post-002",
-      "category": "STUDY",
-      "title": "期中考備戰：我的讀書筆記分享",
+      "category": "Barbie’s Vibe",
+      "title": "除了天生的好運氣，剩下的日子我只想被這些可愛小東西包圍。",
       "date": "2026.02.28",
-      "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?q=80&w=800&auto=format&fit=crop",
+      "image": "https://i.pinimg.com/736x/1f/06/1c/1f061c6b2b271ab3ad9b11e6fb87d25d.jpg",
       "excerpt": "這次期中考的範圍真的很大，我整理了一些歷史和地理的重點筆記，並分享我平常使用的番茄鐘讀書法，希望能幫助到大家一起度過難關。",
       "content": [
         "這次期中考的範圍真的很大，我整理了一些歷史和地理的重點筆記，並分享我平常使用的番茄鐘讀書法，希望能幫助到大家一起度過難關。",
@@ -120,11 +119,12 @@
       "title": "ABOUT ME",
       "image": "https://i.pinimg.com/736x/a4/79/6f/a4796f4fa7be26b090eaeea61761aa68.jpg",
       "name": "Barbie",
-      "description": "16歲，喜歡追星 追劇 聽音樂 分享各種可愛小東西，這裡是分享我高二生活的小天地，希望能記錄下這些美好瞬間。"
+      "description": "歡迎來到Barbie的8號夢幻屋🎀，大家好我是Barbie。大家常問我為什麼叫這個名字，難道是因為我長得像芭比嗎？雖然這已經是事實 但真正的理由更高級一點：因為我出生在民國98年8月28日。\n沒錯，就是滿滿的8!。"
     },
-    "aboutExtended": "16歲，喜歡追星 追劇 聽音樂 分享各種可愛小東西，這裡是分享我高二生活的小天地，希望能記錄下這些美好瞬間。",
+    "aboutExtended": "",
     "categories": [
       { "name": "日常生活", "value": "", "count": 12 },
+      { "name": "校園穿搭 (OUTFIT)", "value": "OUTFIT", "count": 2 },
       { "name": "生活隨筆 (LIFESTYLE)", "value": "LIFESTYLE", "count": 8 },
       { "name": "讀書筆記 (STUDY)", "value": "STUDY", "count": 5 },
       { "name": "攝影日常 (PHOTOGRAPHY)", "value": "PHOTOGRAPHY", "count": 15 }
